@@ -70,7 +70,7 @@ Active consultant helping boardroom and C-suite leadership teams navigate **LLM/
 
 
   [![GitHub stats](https://github-stats-extended.vercel.app/api?username=MaheshUmale)](https://github.com/stats-organization/github-stats-extended)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MaheshUmale)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MaheshUmale&hide=javascript,html)](https://github.com/stats-organization/github-stats-extended)
    
 </div>
 
