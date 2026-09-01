@@ -67,11 +67,10 @@ Active consultant helping boardroom and C-suite leadership teams navigate **LLM/
 
 ### 📊 Strategic Contribution Portfolio
 <div align="center">  
-
-
-  [![GitHub stats](https://github-stats-extended.vercel.app/api?username=MaheshUmale)](https://github.com/stats-organization/github-stats-extended)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MaheshUmale)](https://github.com/stats-organization/github-stats-extended)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MaheshUmale&layout=donut&langs_count=5&hide_values=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=MaheshUmale&layout=donut&langs_count=5&hide_values=true&theme=chartreuse-dark)
+ 
+[![GitHub stats]([https://github-stats-extended.vercel.app/api?username=MaheshUmale&show_icons=true&include_all_commits=true&theme=shadow_green])(https://github-stats-extended.vercel.app/api?username=MaheshUmale&show_icons=true&include_all_commits=true&theme=shadow_green)
+[![Top Langs]([https://github-stats-extended.vercel.app/api/top-langs?username=MaheshUmale&langs_count=4&theme=shadow_green])(https://github-stats-extended.vercel.app/api/top-langs?username=MaheshUmale&langs_count=4&theme=shadow_green)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=5&hide_values=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=MaheshUmale&layout=donut&langs_count=5&hide_values=true&theme=chartreuse-dark)
 </div>
 
 ***
