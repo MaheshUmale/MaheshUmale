@@ -67,7 +67,9 @@ Active consultant helping boardroom and C-suite leadership teams navigate **LLM/
 
 ### 📊 Strategic Contribution Portfolio
 <div align="center">
-  <img src="https://vercel.app" alt="Mahesh's Strategic Metrics" height="165"/>
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=MaheshUmale)
+  
+  <img src="github-readme-stats.vercel.app" alt="Mahesh's Strategic Metrics" height="165"/>
   <img src="https://vercel.app" alt="Enterprise Language Mix" height="165"/>
 </div>
 
