@@ -66,12 +66,19 @@ Active consultant helping boardroom and C-suite leadership teams navigate **LLM/
 ---
 
 ### 📊 Strategic Contribution Portfolio
-<div align="center">  
- 
-[![GitHub stats]([https://github-stats-extended.vercel.app/api?username=MaheshUmale&show_icons=true&include_all_commits=true&theme=shadow_green])(https://github-stats-extended.vercel.app/api?username=MaheshUmale&show_icons=true&include_all_commits=true&theme=shadow_green)
-[![Top Langs]([https://github-stats-extended.vercel.app/api/top-langs?username=MaheshUmale&langs_count=4&theme=shadow_green])(https://github-stats-extended.vercel.app/api/top-langs?username=MaheshUmale&langs_count=4&theme=shadow_green)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=5&hide_values=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=MaheshUmale&layout=donut&langs_count=5&hide_values=true&theme=chartreuse-dark)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img width="640" height="281" alt="{5045DDDD-9CF9-40AC-8CFB-1EF00D46EC60}" src="https://github.com/user-attachments/assets/24a00f16-4d0b-469b-ac21-1339fc48a7f5"   width="300"/>
+      </td>
+      <td>
+        <img width="380" height="308" alt="{84CC1A10-BDE1-44CE-A39A-E012A71C3F04}" src="https://github.com/user-attachments/assets/3040ffee-6336-454f-8720-0471ed692038"  width="300"/>
+      </td>
+    </tr>
+  </table>
 </div>
+ 
 
 ***
 
