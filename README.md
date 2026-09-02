@@ -68,6 +68,18 @@ Active consultant helping boardroom and C-suite leadership teams navigate **LLM/
 ### 📊 Strategic Contribution Portfolio
 <div align="center">
   <table>
+<tr>
+  <td colspan="2">
+    <img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/81e014b6-b725-412e-b71e-7ce633c9cc3c"  width="300"/>
+    <a href="https://github.com/MaheshUmale/RBIs-MRMF-agent-harness#1-executive-governance--mrmf-risk-dashboard">Visit RBIs MRMF agent harness :executive governance mrmf risk dashboard</a> 
+</td>
+  </tr>
+    <tr>
+  <td colspan="2">
+    <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/d03eea28-2d45-4208-a693-0f9a73b26a94"  width="300"/>
+     <a href="https://github.com/MaheshUmale/AgentRoom_VoiceCall#-agentroom--multi-agent-webrtc-orchestration--collaborative-workspace">Visit multi-agent Voice/Call based collaborative orchestration</a>
+    </td>
+</tr>
     <tr>
       <td>
         <img width="640" height="281" alt="{5045DDDD-9CF9-40AC-8CFB-1EF00D46EC60}" src="https://github.com/user-attachments/assets/24a00f16-4d0b-469b-ac21-1339fc48a7f5"   width="300"/>
@@ -76,17 +88,6 @@ Active consultant helping boardroom and C-suite leadership teams navigate **LLM/
         <img width="380" height="308" alt="{84CC1A10-BDE1-44CE-A39A-E012A71C3F04}" src="https://github.com/user-attachments/assets/3040ffee-6336-454f-8720-0471ed692038"  width="300"/>
       </td>
     </tr>
-<tr>
-  <td>
-    <img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/81e014b6-b725-412e-b71e-7ce633c9cc3c"  width="300"/>
-    <a href="https://github.com/MaheshUmale/RBIs-MRMF-agent-harness#1-executive-governance--mrmf-risk-dashboard">Visit RBIs MRMF agent harness :executive governance mrmf risk dashboard</a> 
-</td>
-  <td>
-    <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/d03eea28-2d45-4208-a693-0f9a73b26a94"  width="300"/>
-     <a href="https://github.com/MaheshUmale/AgentRoom_VoiceCall#-agentroom--multi-agent-webrtc-orchestration--collaborative-workspace">Visit multi-agent Voice/Call based collaborative orchestration</a>
-    </td>
-</tr>
-
   </table>
 </div>
  
