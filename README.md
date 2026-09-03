@@ -88,6 +88,23 @@ Active consultant helping boardroom and C-suite leadership teams navigate **LLM/
         <img width="380" height="308" alt="{84CC1A10-BDE1-44CE-A39A-E012A71C3F04}" src="https://github.com/user-attachments/assets/3040ffee-6336-454f-8720-0471ed692038"  width="300"/>
       </td>
     </tr>
+    <tr>
+  <td  >
+    <img width="923" height="846" alt="{399D2297-473B-40AD-BCD8-BBC5C9E029C6}" src="https://github.com/user-attachments/assets/19951533-19e6-4e39-9e3e-246bf4d81db4"  width="300"/>
+    <a href="https://huggingface.co/maheshumale/archai-nano-phi3-finetuned#archai-nano-phi3-finetuned">Visit a fine-tuned language model based on unsloth/Phi-3-mini-4k-instruct, using Unsloth on a custom dataset for Enterprise Architecture related tasks</a> 
+    
+</td>
+<td>
+  ✨ Key Features Enterprise Knowledge Graph + Vector RAG: Ingests EA data (JSON/Excel) to build a deep understanding of the landscape. Multi-Agent Orchestration: Powered by LangGraph, ArchAI uses specialized agents for design, compliance, cost-analysis, and review. Justified HLD Generation: Produces C4-inspired Mermaid diagrams, decision matrices, and comprehensive documentation. Strong Guardrails: Enforces reuse-before-buy policies, security compliance, and cost-effectiveness. Human-in-the-Loop: Interactive chat and iterative design refinement. 🛠 Tech Stack
+
+Model Details
+Base Model: unsloth/Phi-3-mini-4k-instruct
+Fine-tuning Framework: Unsloth
+Quantization: 4-bit QLoRA
+Training Data: Custom Enterprise Architecture corpus
+ <a href="https://huggingface.co/maheshumale/archai-nano-phi3-finetuned#archai-nano-phi3-finetuned"> https://huggingface.co/maheshumale/archai-nano-phi3-finetuned </a>
+  </td>
+  </tr>
   </table>
 </div>
  
