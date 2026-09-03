@@ -67,47 +67,56 @@ Active consultant helping boardroom and C-suite leadership teams navigate **LLM/
 
 ### 📊 Strategic Contribution Portfolio
 <div align="center">
-  <table>
-<tr>
-  <td colspan="2">
-    <img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/81e014b6-b725-412e-b71e-7ce633c9cc3c"  width="300"/>
-    <a href="https://github.com/MaheshUmale/RBIs-MRMF-agent-harness#1-executive-governance--mrmf-risk-dashboard">Visit RBIs MRMF agent harness :executive governance mrmf risk dashboard</a> 
-</td>
-  </tr>
+  <table width="100%">    
+    <!-- Row 1: Featured Applications Showcase -->
     <tr>
-  <td colspan="2">
-    <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/d03eea28-2d45-4208-a693-0f9a73b26a94"  width="300"/>
-     <a href="https://github.com/MaheshUmale/AgentRoom_VoiceCall#-agentroom--multi-agent-webrtc-orchestration--collaborative-workspace">Visit multi-agent Voice/Call based collaborative orchestration</a>
-    </td>
-</tr>
-    <tr>
-      <td>
-        <img width="640" height="281" alt="{5045DDDD-9CF9-40AC-8CFB-1EF00D46EC60}" src="https://github.com/user-attachments/assets/24a00f16-4d0b-469b-ac21-1339fc48a7f5"   width="300"/>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github.com/user-attachments/assets/81e014b6-b725-412e-b71e-7ce633c9cc3c" alt="RBI MRMF Governance Dashboard" src="" width="100%" />
+        <br/><br/>
+        <a href="https://github.com/MaheshUmale/RBIs-MRMF-agent-harness#1-executive-governance--mrmf-risk-dashboard"><strong>🔗 RBIs MRMF Agent Harness</strong></a>
       </td>
-      <td>
-        <img width="380" height="308" alt="{84CC1A10-BDE1-44CE-A39A-E012A71C3F04}" src="https://github.com/user-attachments/assets/3040ffee-6336-454f-8720-0471ed692038"  width="300"/>
+      <td width="50%" align="center" valign="top">
+        <img alt="AgentRoom WebRTC Conference" src="https://github.com/user-attachments/assets/d03eea28-2d45-4208-a693-0f9a73b26a94" width="100%" />
+        <br/><br/>
+        <a href="https://github.com/MaheshUmale/AgentRoom_VoiceCall#-agentroom--multi-agent-webrtc-orchestration--collaborative-workspace"><strong>🚀 AgentRoom Voice Orchestration</strong></a>
       </td>
     </tr>
+    <!-- Row 3: Fine-Tuned LLM Model Card & Technical Specs -->
     <tr>
-  <td  >
-    <img width="923" height="846" alt="{399D2297-473B-40AD-BCD8-BBC5C9E029C6}" src="https://github.com/user-attachments/assets/19951533-19e6-4e39-9e3e-246bf4d81db4"  width="300"/>
-    <a href="https://huggingface.co/maheshumale/archai-nano-phi3-finetuned#archai-nano-phi3-finetuned">Visit a fine-tuned language model based on unsloth/Phi-3-mini-4k-instruct, using Unsloth on a custom dataset for Enterprise Architecture related tasks</a> 
-    
-</td>
-<td>
-  ✨ Key Features Enterprise Knowledge Graph + Vector RAG: Ingests EA data (JSON/Excel) to build a deep understanding of the landscape. Multi-Agent Orchestration: Powered by LangGraph, ArchAI uses specialized agents for design, compliance, cost-analysis, and review. Justified HLD Generation: Produces C4-inspired Mermaid diagrams, decision matrices, and comprehensive documentation. Strong Guardrails: Enforces reuse-before-buy policies, security compliance, and cost-effectiveness. Human-in-the-Loop: Interactive chat and iterative design refinement. 🛠 Tech Stack
-
-Model Details
-Base Model: unsloth/Phi-3-mini-4k-instruct
-Fine-tuning Framework: Unsloth
-Quantization: 4-bit QLoRA
-Training Data: Custom Enterprise Architecture corpus
- <a href="https://huggingface.co/maheshumale/archai-nano-phi3-finetuned#archai-nano-phi3-finetuned"> https://huggingface.co/maheshumale/archai-nano-phi3-finetuned </a>
-  </td>
-  </tr>
+      <td width="50%" align="center" valign="top">
+        <img alt="Hugging Face Model Card" src="https://github.com/user-attachments/assets/19951533-19e6-4e39-9e3e-246bf4d81db4" width="100%" />
+        <br/><br/>
+        <a href="https://huggingface.co/maheshumale/archai-nano-phi3-finetuned#archai-nano-phi3-finetuned"><strong>🤗 archai-nano-phi3-finetuned</strong></a>
+      </td>
+      <td width="50%" align="left" valign="top">
+        <h4>✨ Key Features</h4>
+        <ul>
+          <li><strong>Enterprise Knowledge Graph + Vector RAG:</strong> Ingests JSON/Excel data to trace architecture maps.</li>
+          <li><strong>Multi-Agent Orchestration:</strong> Powered by LangGraph for automated compliance & design.</li>
+          <li><strong>Justified HLD Generation:</strong> Produces C4-inspired Mermaid diagrams.</li>
+          <li><strong>Strong Guardrails:</strong> Enforces reuse policies and security compliance.</li>
+        </ul>
+        <h4>🛠 Tech Stack & Model Details</h4>
+        <ul>
+          <li><strong>Base Model:</strong> unsloth/Phi-3-mini-4k-instruct</li>
+          <li><strong>Fine-tuning Framework:</strong> Unsloth (4-bit QLoRA)</li>
+          <li><strong>Training Corpus:</strong> Enterprise Architecture Data</li>
+        </ul>
+        <a href="https://huggingface.co/maheshumale/archai-nano-phi3-finetuned#archai-nano-phi3-finetuned">👉 Model Repository Link</a>
+      </td>
+    </tr>
+   <!-- Row 2: GitHub Statistics Profile Breakdown -->
+    <tr>
+      <td width="50%" align="center" valign="middle">
+        <img alt="Mahesh Umale GitHub Stats" src="https://github.com/user-attachments/assets/24a00f16-4d0b-469b-ac21-1339fc48a7f5" width="100%" />
+      </td>
+      <td width="50%" align="center" valign="middle">
+        <img alt="Most Used Languages" src="https://github.com/user-attachments/assets/3040ffee-6336-454f-8720-0471ed692038" width="85%" />
+      </td>
+    </tr>
   </table>
 </div>
- 
+
 
 ***
 
