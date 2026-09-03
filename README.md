@@ -75,10 +75,31 @@ Active consultant helping boardroom and C-suite leadership teams navigate **LLM/
         <br/><br/>
         <a href="https://github.com/MaheshUmale/RBIs-MRMF-agent-harness#1-executive-governance--mrmf-risk-dashboard"><strong>🔗 RBIs MRMF Agent Harness</strong></a>
       </td>
+      <td>
+📌 Executive Overview
+The RBI MRMF Compliance & Audit Suite is an enterprise-grade platform designed to streamline model governance, independent validation, and regulatory audit readiness across the entire model lifecycle—from inception and rating to deployment and retirement.
+
+Equipped with an Autonomous 7-Agent Evaluation Harness and a Cryptographic SHA-256 Tamper-Evident Ledger, the suite automates quantitative backtesting, conceptual soundness verification, stress testing, fairness/explainability audits, and clause-by-clause regulatory compliance reporting.
+      </td>
+      <tr>
       <td width="50%" align="center" valign="top">
         <img alt="AgentRoom WebRTC Conference" src="https://github.com/user-attachments/assets/d03eea28-2d45-4208-a693-0f9a73b26a94" width="100%" />
         <br/><br/>
         <a href="https://github.com/MaheshUmale/AgentRoom_VoiceCall#-agentroom--multi-agent-webrtc-orchestration--collaborative-workspace"><strong>🚀 AgentRoom Voice Orchestration</strong></a>
+      </td> <td>
+      AgentRoom is an AI-native, multi-agent WebRTC conference room and orchestration platform. It brings human participants and autonomous AI agents together in a real-time audio/video room equipped with low-latency event-driven message meshes, rank-prioritized task scheduling, and live agent deliverable generation.
+
+🌟 Key Features
+🎙️ WebRTC Real-Time Audio & Video Conference: Real-time room streaming built on LiveKit WebRTC architecture with Voice Activity Detection (VAD) and live participant grid.
+🧠 Lead PM Orchestrator Agent: An intelligent Lead AI Agent that listens to user voice/text commands, breaks down complex goals into sub-tasks, and dynamically coordinates specialist agents.
+🤖 Autonomous Sub-Agent Swarm:
+💻 CodeAgent: Formulates full-stack scaffolds, REST/GraphQL schemas, and algorithms.
+🔍 ResearchAgent: Analyzes architecture docs, benchmarks, and technical requirements.
+🎨 DesignAgent: Generates UI/UX design specifications, theme tokens, and layout guidelines.
+🛡️ Security & QA Agent: Conducts security audits, test plan generation, and code quality checks.
+📋 Rank-Based Master Agenda (Drag & Drop): Interactive Scrum Master agenda with reordering capabilities (#1, #2, #3), status toggles, task creation, and instant priority shifts for active agents.
+⚡ Event-Driven Pub/Sub Mesh: Standardized JSON event bus broadcast over WebRTC data channels and server event streams (pm:control, agents:status, agents:output, room:presence).
+📦 Live Deliverables Workspace: Real-time generation and inspection of structured code files, OpenAPI specs, architecture diagrams, and technical briefs.
       </td>
     </tr>
     <!-- Row 3: Fine-Tuned LLM Model Card & Technical Specs -->
@@ -106,7 +127,7 @@ Active consultant helping boardroom and C-suite leadership teams navigate **LLM/
       </td>
     </tr>
    <!-- Row 2: GitHub Statistics Profile Breakdown -->
-    <tr>
+  <tr>
       <td width="50%" align="center" valign="middle">
         <img alt="Mahesh Umale GitHub Stats" src="https://github.com/user-attachments/assets/24a00f16-4d0b-469b-ac21-1339fc48a7f5" width="100%" />
       </td>
